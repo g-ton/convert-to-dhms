@@ -1,5 +1,5 @@
 // Package convertdhms provides a converter that process minutes to dd:hh:mm:ss format string
-package convertdhms
+package converttodhms
 
 import (
 	"fmt"

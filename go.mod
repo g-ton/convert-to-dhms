@@ -1,3 +1,3 @@
-module github.com/g-ton/convert-to-dhms
+module github.com/g-ton/converttodhms
 
 go 1.17
