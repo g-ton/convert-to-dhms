@@ -58,3 +58,7 @@ func pad(in float64) string {
 
 	return fmt.Sprintf("%.f", in)
 }
+
+func GetTest() string {
+	return "GetTest"
+}
